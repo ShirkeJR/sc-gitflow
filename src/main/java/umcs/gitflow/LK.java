@@ -1,4 +1,4 @@
-package pl.dominisz.gitflow;
+package umcs.gitflow;
 
 import java.util.function.Supplier;
 
